@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![iamkanguk97's GitHub stats](https://github-readme-stats.vercel.app/api?username=iamkanguk97&show_icons=true&theme=highcontrast)  
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=kangukii97)](https://velog.io/@kangukii97) 

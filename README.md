@@ -2,7 +2,7 @@
 
 - Blog1 | https://velog.io/@kangukii97 (Tistory로 이동)
 - Blog2 | https://dev-iamkanguk.tistory.com/
-- Portfolio | https://iamkanguk.notion.site/9ba2a3cb3ba94fb8838adf99078088dd?pvs=4
+- Rallit | https://www.rallit.com/resume/template
 
 ### 🍎 Projects 🍎
 - [팀 프로젝트] **모임 기능을 더한 캘린더 애플리케이션, 맵필로그** (MVP 단계 개발 진행중)

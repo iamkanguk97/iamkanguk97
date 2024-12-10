@@ -1,11 +1,33 @@
-### 👋 안녕하세요! NodeJS 개발을 하고있는 이강욱입니다. 👋
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fiamkanguk97&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-- Blog1 | https://velog.io/@kangukii97 (Tistory로 이동)
-- Blog2 | https://dev-iamkanguk.tistory.com/
-- 이력서(랠릿) | https://www.rallit.com/hub/resumes/4842/%EC%9D%B4%EA%B0%95%EC%9A%B1
+- Blog: https://dev-iamkanguk.tistory.com/
+- LinkedIn: https://www.linkedin.com/in/iamkanguk/
+- Email: iamkangukii.dev@gmail.com
+- Resume: TBU
 
-### 🍎 Projects 🍎
-- [팀 프로젝트] **지도를 기반으로 현 위치 중심의 일정 및 추억을 관리할 수 있는 서비스, 맵필로그** (1차 개발 마무리 후 현재 배포 준비중)
-- [동아리 연계 외주 프로젝트] **반려동물 전용 소셜 커뮤니티, 포슬리** (완료)
-- [동아리 연계 외주 프로젝트] **GRIDGE 페이지 개발 외주** (완료)
-- [팀 프로젝트] **여행 기록 공유 플랫폼 애플리케이션, 모두의 여행 트리퍼** (서버 비용으로 인한 운영 종료 후 완료)
+### 👨🏻‍💻 About Me! 👨🏻‍💻
+> Hello, I'm **Kanguk Lee**. English name is **Jason**.
+- I'm a backend developer using **TypeScript (NestJS)**.
+- Currently, our company uses a **Koa framework** as its main framework.
+- I enjoy **exchanging information with others**. Also, I've interested in **participating or running study group.**
+
+### 🛠️ Tech Stack 🛠️
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript-F7DF1E&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript-3178C6&logoColor=white"/> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=NestJS-E0234E&logoColor=white"/>
+
+### 💼 Work Experiences 💼
+
+|Type|Organization|Position|Period|
+|------|---|---|---|
+|Company|JEI Corporation|Backend Developer|2024.05 ~|
+|Company|ingstory|Backend Intern|2022.07 ~ 2022.12|
+
+### 📔 Activities 📔
+> Projects, Study + others..
+
+|Type|Organization|Position|Period|
+|------|---|---|---|
+|Reviewer|UMC in Gachon University|Code Reviewer|2024.12.09 ~ 2024.12.15|
+|Outsourcing|Nattabiotech|Backend Developer|2024.11 ~|
+|Modern JavaScript Deep Dive Study|Monthly-CS|Study group leader|2024.07 ~ 2024.10|
+|Effective TypeScript Study|Monthly-CS|Study group participant|2024.05 ~ 2024.06|

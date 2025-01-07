@@ -27,6 +27,7 @@
 
 |Type|Organization|Position|Period|
 |------|---|---|---|
+|Computer Architecture and Operating System Study | None | Study group leader | 2025.01 ~ |
 |Reviewer|UMC in Gachon University|Code Reviewer|2024.12.09 ~ 2024.12.15|
 |Outsourcing|Nattabiotech|Backend Developer|2024.11 ~|
 |[Modern JavaScript Deep Dive Study](https://inblog.ai/monthly-cs/22772)|Monthly-CS|Study group leader|2024.07 ~ 2024.10|

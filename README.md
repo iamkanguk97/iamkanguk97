@@ -27,7 +27,7 @@
 
 |Type|Organization|Position|Period|
 |------|---|---|---|
-|[Computer Architecture and Operating System Study](https://github.com/hello-cs-study/computer-architecture-and-operating-system)| None | Study group leader | 2025.01 ~ |
+|[Computer Architecture and Operating System Study](https://github.com/hello-cs-study/computer-architecture-and-operating-system)| None | Study group leader | 2025.01 ~ 2025.02 |
 |Reviewer|UMC in Gachon University|Code Reviewer|2024.12.09 ~ 2024.12.15|
 |Outsourcing|Nattabiotech|Backend Developer|2024.11 ~|
 |[Modern JavaScript Deep Dive Study](https://inblog.ai/monthly-cs/22772)|Monthly-CS|Study group leader|2024.07 ~ 2024.10|

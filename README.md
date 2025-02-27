@@ -27,6 +27,7 @@
 
 |Type|Organization|Position|Period|
 |------|---|---|---|
+|[Easy Learning Operating System](https://github.com/hello-cs-study/easy-learn-operating-system)| None | Study group leader | 2025.02 ~ 2025.04 |
 |[Computer Architecture and Operating System Study](https://github.com/hello-cs-study/computer-architecture-and-operating-system)| None | Study group leader | 2025.01 ~ 2025.02 |
 |Reviewer|UMC in Gachon University|Code Reviewer|2024.12.09 ~ 2024.12.15|
 |Outsourcing|Nattabiotech|Backend Developer|2024.11 ~|

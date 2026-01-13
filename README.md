@@ -4,6 +4,8 @@
 - Currently, our company uses a **Koa framework** as its main framework.
 - I enjoy **exchanging information with others**. Also, I've interested in **participating or running study group.**
 
+[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOBza1BA)](https://www.git-ranker.com)
+
 ### Links
 
 - Blog: https://dev-iamkanguk.tistory.com/

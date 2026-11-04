@@ -1,8 +1,6 @@
 ### 👨🏻‍💻 About Me! 👨🏻‍💻
 > Hello, I'm **Kanguk Lee**. English name is **Jason**.
 
-<br>
-
 ## 🌱 Open Source
 
 ### 🛠️ Maintaining

@@ -6,6 +6,8 @@
 ### 🛠️ Maintaining
 - [**mikro-orm-markdown**](https://github.com/iamkanguk97/mikro-orm-markdown) — Generate Mermaid ERD diagrams and Markdown schema docs from MikroORM entities
   <br>![npm](https://img.shields.io/npm/v/mikro-orm-markdown) ![stars](https://img.shields.io/github/stars/iamkanguk97/mikro-orm-markdown)
+- [**eslint-plugin-date-consistency**](https://github.com/iamkanguk97/eslint-plugin-date-consistency) — ESLint plugin that flags native `new Date()` when a date library is in use, and catches deprecated libraries
+  <br>![npm](https://img.shields.io/npm/v/eslint-plugin-date-consistency) ![stars](https://img.shields.io/github/stars/iamkanguk97/eslint-plugin-date-consistency)
 
 ### 🤝 Contributions
 #### [nestjs](https://github.com/nestjs)

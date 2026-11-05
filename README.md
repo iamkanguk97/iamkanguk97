@@ -17,3 +17,7 @@
 
 #### [mag123c/toktrack](https://github.com/mag123c/toktrack)
 - feat(tui): add sort key/direction toggle to daily tables [#207](https://github.com/mag123c/toktrack/pull/207)
+
+## 📝 Recent Posts ([욱개로그](https://iamkanguk97.github.io))
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->

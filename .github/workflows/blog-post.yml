@@ -1,0 +1,27 @@
+name: Update recent blog posts
+
+on:
+  schedule:
+    # 00:00 KST (15:00 UTC)
+    - cron: "0 15 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    env:
+      # Runners use UTC; render post dates in KST so they match the blog.
+      TZ: Asia/Seoul
+    steps:
+      - uses: actions/checkout@v7
+      # Pinned to the commit of gautamkrishnar/blog-post-workflow 1.9.7
+      - uses: gautamkrishnar/blog-post-workflow@f177491c77670f150ab4e9b9890254d8eba4164b
+        with:
+          feed_list: "https://iamkanguk97.github.io/feed.xml"
+          max_post_count: 5
+          template: "- [$title]($url) — $date$newline"
+          date_format: "yyyy.mm.dd"
+          commit_message: "docs: update recent blog posts"

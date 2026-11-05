@@ -1,5 +1,11 @@
-### 👨🏻‍💻 About Me! 👨🏻‍💻
-> Hello, I'm **Kanguk Lee**. English name is **Jason**.
+### 🙋🏻 About Me
+- Hi, I'm **Kanguk Lee (Jason)**.
+- I'm a Backend Developer growing into a **Product Engineer**.
+- Mainly using TypeScript, NestJS
+
+### 💡 Work Experience
+- [INGSTORY - 작심스터디카페] Backend Intern (2022.07 ~ 2022.12)
+- [JEI Corporation] Backend Engineer (2024.05 ~ PRESENT)
 
 <br/>
 

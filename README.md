@@ -26,6 +26,9 @@
 #### [mag123c/toktrack](https://github.com/mag123c/toktrack)
 - feat(tui): add sort key/direction toggle to daily tables [#207](https://github.com/mag123c/toktrack/pull/207)
 
+#### [mikro-orm/mikro-orm](https://github.com/mikro-orm/mikro-orm)
+- 🐛 Bug report — STI: property-level `@Check` on a child-only property crashes discovery [#8687](https://github.com/mikro-orm/mikro-orm/issues/8687) (fixed in [#8688](https://github.com/mikro-orm/mikro-orm/pull/8688))
+
 <br/>
 
 ## 📝 Recent Posts ([욱개로그](https://iamkanguk97.github.io))
